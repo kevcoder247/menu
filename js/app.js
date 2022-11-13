@@ -73,7 +73,6 @@ const menu = [
   },
 ];
 
-
 const sectionCenter = document.querySelector('.section-center');
 
 const container = document.querySelector('.btn-container')
